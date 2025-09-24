@@ -1,0 +1,10 @@
+.profile_layout{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.profileUpdation_realtime{
+    background-color: rgb(218, 189, 218);
+    border-radius: 5px;
+    margin: 5px;
+}

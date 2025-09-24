@@ -1,0 +1,14 @@
+.expensePage_layout{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.profile_update_text{
+    background-color: rgb(218, 189, 218);
+    border-radius: 5px;
+    margin: 5px;
+}
+.profile_text{
+    color: blue;
+    text-decoration: none;
+}
