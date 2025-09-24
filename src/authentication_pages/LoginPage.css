@@ -1,0 +1,55 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    gap: 20px;
+}
+.page_body{
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    border: 1px solid rgb(192, 184, 184);
+}
+.head_text{
+    text-align: center;
+    font-size: 25px;
+}
+.layout form input{
+    width: 80%;
+    margin-bottom: 15px;
+    padding: 12px 15px;
+    border-radius: 20px;
+    font-size: 16px;
+    box-sizing: border-box;
+    background-color: black;
+}
+.login_btn {
+  width: 80%;
+  padding: 12px;
+  background-color:blue;
+  color: white;
+  font-size: 15px;
+  border-radius: 20px;
+  margin:10px auto 5px auto;
+  cursor: pointer;
+  border: none;
+  display: block;
+}
+.forgot_link {
+  display: block;  /* makes it come in next line */
+  text-align: center;
+  color: blue;
+  margin-bottom: 15px; /* small spacing */
+}
+.Signup_button {
+  width: 300px;
+  padding: 12px;
+  background-color: #a4b7c7;
+  color:black;
+  border: 1px solid rgb(192, 184, 184);
+  border-radius: 7px;
+  cursor: pointer;
+  font-size: 15px;
+}
